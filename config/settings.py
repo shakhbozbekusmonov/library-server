@@ -83,6 +83,13 @@ CORS_ALLOW_METHODS = [
 
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ORIGIN_WHITELIST = ('*')
+CORS_ALLOWED_ORIGINS = [
+    # Add the domains that are allowed to access your API
+    # For development purposes, you can set it to allow all origins
+    '*',
+]
+
+CORS_ALLOW_ALL_HEADERS = True
 
 TEMPLATES = [
     {
