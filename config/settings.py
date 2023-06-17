@@ -73,8 +73,8 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'config.urls'
 
 CORS_ALLOWED_ORIGINS = [
-    'http://libraryuz.up.railway.app',
-    'https://libraryuz.up.railway.app',
+    'http://library-server-production-99e4.up.railway.app',
+    'https://library-server-production-99e4.up.railway.app',
 ]
 
 CORS_ORIGIN_ALLOW_ALL = True
@@ -92,8 +92,8 @@ CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_HEADERS = ['*']
 
 CSRF_TRUSTED_ORIGINS = [
-    'http://libraryuz.up.railway.app',
-    'https://libraryuz.up.railway.app',
+    'http://library-server-production-99e4.up.railway.app',
+    'https://library-server-production-99e4.up.railway.app',
 
 ]
 
