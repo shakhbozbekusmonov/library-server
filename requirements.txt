@@ -32,5 +32,5 @@ sqlparse==0.4.4
 typing_extensions==4.6.2
 tzdata==2023.3
 uritemplate==4.1.1
-urllib3==2.0.2
+urllib3==2.0.6
 whitenoise==5.1.0
