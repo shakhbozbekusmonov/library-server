@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 django = "4.2.1"
 djangorestframework = "3.14.0"
-pillow = "9.5.0"
+pillow = "10.0.1"
 django-cors-headers = "==3.14.0"
 django-cors-middleware = "*"
 drf-yasg = "*"
